@@ -1,0 +1,24 @@
+- pathname: /channel/UCizN2tVLNcwP67bAHlVRg1Q
+  name: Iroha Translation
+  reasons:
+    - description: Long history of clickbait and misleading titles
+      source:
+        - https://www.reddit.com/r/Hololive/comments/p839i1/iroha_translation_is_starting_to_get_just_as_bad/
+        - https://www.reddit.com/r/Hololive/comments/q8p8f7/misconceptions_about_kanatas_mom_sayuri/
+- pathname: /channel/UC8RhmgBdOlq-AtfvIcdt1-g
+  name: xXGLPXx
+  reasons:
+    - description: Doxxing
+      source: https://www.youtube.com/channel/UC8RhmgBdOlq-AtfvIcdt1-g
+- pathname: /c/OtakMoriTranslationsVTubers
+  name: OtakMori Translations - VTubers
+  reasons:
+    - description: Long history of clickbait and misleading titles
+      source:
+        - https://www.reddit.com/r/Hololive/comments/ibb865/mano_aloe_update_video_translation_thanks_to/g1txuc5/
+
+- pathname: /c/KamiClips
+  name: Kami Clips [HololiveEN Clips] - 神クリップ
+  reasons:
+    - description: Uploading unarchived content, Harassing talents, misleading contents
+      source: https://docs.google.com/document/d/1rTGVFxKP_DCAtazKf4GWzOfmS-DsuDzd-TwXHYezk3k/edit
